@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/proyecto-semestre-reparaya/static/css/main.0e50e6b2.chunk.css",
+    "main.js": "/proyecto-semestre-reparaya/static/js/main.460e89e0.chunk.js",
+    "main.js.map": "/proyecto-semestre-reparaya/static/js/main.460e89e0.chunk.js.map",
+    "runtime-main.js": "/proyecto-semestre-reparaya/static/js/runtime-main.5a6c2197.js",
+    "runtime-main.js.map": "/proyecto-semestre-reparaya/static/js/runtime-main.5a6c2197.js.map",
+    "static/js/2.a77bc8bd.chunk.js": "/proyecto-semestre-reparaya/static/js/2.a77bc8bd.chunk.js",
+    "static/js/2.a77bc8bd.chunk.js.map": "/proyecto-semestre-reparaya/static/js/2.a77bc8bd.chunk.js.map",
+    "index.html": "/proyecto-semestre-reparaya/index.html",
+    "precache-manifest.b429f351b456a6504039b1aee3406d74.js": "/proyecto-semestre-reparaya/precache-manifest.b429f351b456a6504039b1aee3406d74.js",
+    "service-worker.js": "/proyecto-semestre-reparaya/service-worker.js",
+    "static/css/main.0e50e6b2.chunk.css.map": "/proyecto-semestre-reparaya/static/css/main.0e50e6b2.chunk.css.map",
+    "static/js/2.a77bc8bd.chunk.js.LICENSE.txt": "/proyecto-semestre-reparaya/static/js/2.a77bc8bd.chunk.js.LICENSE.txt",
+    "static/media/about.svg": "/proyecto-semestre-reparaya/static/media/about.2a50077a.svg",
+    "static/media/busca.png": "/proyecto-semestre-reparaya/static/media/busca.218d4d0d.png",
+    "static/media/App.less": "/proyecto-semestre-reparaya/static/media/pintura.3960cd5d.jpg",
+    "static/media/feliz.png": "/proyecto-semestre-reparaya/static/media/feliz.3a119c6e.png",
+    "static/media/gabi.jpg": "/proyecto-semestre-reparaya/static/media/gabi.d3081816.jpg",
+    "static/media/imgInicio.svg": "/proyecto-semestre-reparaya/static/media/imgInicio.d0c3d8a6.svg",
+    "static/media/jona.jpg": "/proyecto-semestre-reparaya/static/media/jona.276d46d5.jpg",
+    "static/media/logo-saturated.png": "/proyecto-semestre-reparaya/static/media/logo-saturated.c20a3c88.png",
+    "static/media/logo.png": "/proyecto-semestre-reparaya/static/media/logo.de80de40.png",
+    "static/media/logo_epn.svg": "/proyecto-semestre-reparaya/static/media/logo_epn.e8656f54.svg",
+    "static/media/lugar.png": "/proyecto-semestre-reparaya/static/media/lugar.24654108.png",
+    "static/media/mensajes.png": "/proyecto-semestre-reparaya/static/media/mensajes.2fc03470.png",
+    "static/media/mision.svg": "/proyecto-semestre-reparaya/static/media/mision.4edb3c1d.svg",
+    "static/media/Privacy.less": "/proyecto-semestre-reparaya/static/media/privacy.e1d1b999.png",
+    "static/media/salud.png": "/proyecto-semestre-reparaya/static/media/salud.e38111da.png",
+    "static/media/telefono.png": "/proyecto-semestre-reparaya/static/media/telefono.1192fa19.png",
+    "static/media/tiempo.png": "/proyecto-semestre-reparaya/static/media/tiempo.41f33e12.png",
+    "static/media/ubicacion.png": "/proyecto-semestre-reparaya/static/media/ubicacion.0d0f0b84.png",
+    "static/media/veloz.png": "/proyecto-semestre-reparaya/static/media/veloz.0b5158d5.png",
+    "static/media/vision.svg": "/proyecto-semestre-reparaya/static/media/vision.ed5240fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a6c2197.js",
+    "static/js/2.a77bc8bd.chunk.js",
+    "static/css/main.0e50e6b2.chunk.css",
+    "static/js/main.460e89e0.chunk.js"
+  ]
+}
