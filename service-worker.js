@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/proyecto-semestre-reparaya/precache-manifest.b429f351b456a6504039b1aee3406d74.js"
+  "/proyecto-semestre-reparaya/precache-manifest.fabf2301593eeb7e4bd4eeedd5faf46c.js"
 );
 
 self.addEventListener('message', (event) => {
